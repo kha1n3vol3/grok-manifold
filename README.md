@@ -29,6 +29,8 @@ The module uses **Pydantic** for configuration management and the **requests** l
 This module has been updated to provide a more robust, user-friendly, and maintainable code structure, ideal for long-term use in production environments. It reflects improvements in performance, security, and usability.
 
 ## Import Function
+For OpenwebUI [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui):
+
 From [http://0.0.0.0:8080/admin/functions](http://0.0.0.0:8080/admin/functions) import the `function-grok_manifold_starficient.json` or click **+** and paste `grok-manifold.py` code.
 
 ## Starficient Validation
