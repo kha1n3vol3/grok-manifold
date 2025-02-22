@@ -34,7 +34,7 @@ Usage:
   ████████          ████████  
  ████████            ████████ 
 ████████              ████████
-Starficient ^: Above Efficient.
+Starficient ^ Above Efficient.
 """
 
 import os
