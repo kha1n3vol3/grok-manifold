@@ -1,5 +1,5 @@
 # grok-manifold
-![logo](logo.png)
+![logo](logo.jpg)
 This module implements a **Pipe** class for interacting with the **Grok API**. It provides functionality to:
 
 - Fetch available models.
