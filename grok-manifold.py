@@ -22,21 +22,6 @@ Usage:
 """
 
 """
-Module: grok_pipe
-Description: This module implements a Pipe class for interacting with the Grok API.
-It provides functionality to fetch available models, process input messages (text and images),
-and handle both streaming and non-streaming API responses. The module uses Pydantic for
-configuration management and the requests library for HTTP communication.
-
-Usage:
-    Initialize the Pipe class and use its methods to interact with the Grok API:
-    >>> pipe = Pipe()
-    >>> models = pipe.pipes()
-    >>> response = pipe.pipe({"model": "grok-beta", "messages": [{"role": "user", "content": "Hello"}]})
-    Note: If GROK_API_KEY is not set, API requests may fail depending on server requirements.
-"""
-
-"""
            ████████           
           ████████            
          ████████             
@@ -49,7 +34,7 @@ Usage:
   ████████          ████████  
  ████████            ████████ 
 ████████              ████████
-Starficient ^
+Starficient ^: Above Efficient.
 """
 
 import os
